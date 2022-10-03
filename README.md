@@ -11,8 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/josephtam-github" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josephtam-github" height="30" width="40" /></a>
-<a href="https://hashnode.com/josephtam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="josephtam" height="30" width="40" /></a>
+<a href="https://hashnode.com/@JosephTam" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="josephtam" height="30" width="40" /></a>
 <a href="https://twitter.com/Joseph_tam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Joseph_tam_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/joseph-tam-b9700b1a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josephtam-github" height="30" width="40" /></a>
 <a href="https://instagram.com/joseph_tam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joseph_tam_" height="30" width="40" /></a>
